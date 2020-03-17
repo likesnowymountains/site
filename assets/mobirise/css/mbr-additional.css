@@ -1499,6 +1499,10 @@ section.lazy-placeholder:after {
 .cid-rTqvSyK2Ez P {
   color: #767676;
 }
+.cid-rTqvSyK2Ez .mbr-text,
+.cid-rTqvSyK2Ez .mbr-section-btn {
+  color: #232323;
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #333333;
